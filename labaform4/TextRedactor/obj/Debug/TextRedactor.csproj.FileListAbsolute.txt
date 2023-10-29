@@ -1,0 +1,22 @@
+D:\Проекты C#\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe.config
+D:\Проекты C#\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe
+D:\Проекты C#\TextRedactor\TextRedactor\bin\Debug\TextRedactor.pdb
+D:\Проекты C#\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.AssemblyReference.cache
+D:\Проекты C#\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\TextRedactor\TextRedactor\obj\Debug\TextRedactor.Form1.resources
+D:\Проекты C#\TextRedactor\TextRedactor\obj\Debug\TextRedactor.Properties.Resources.resources
+D:\Проекты C#\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.GenerateResource.cache
+D:\Проекты C#\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.CoreCompileInputs.cache
+D:\Проекты C#\TextRedactor\TextRedactor\obj\Debug\TextRedactor.exe
+D:\Проекты C#\TextRedactor\TextRedactor\obj\Debug\TextRedactor.pdb
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\bin\Debug\TextRedactor.exe.config
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\bin\Debug\TextRedactor.exe
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\bin\Debug\TextRedactor.pdb
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\obj\Debug\TextRedactor.csproj.AssemblyReference.cache
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\obj\Debug\TextRedactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\obj\Debug\TextRedactor.Form1.resources
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\obj\Debug\TextRedactor.Properties.Resources.resources
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\obj\Debug\TextRedactor.csproj.GenerateResource.cache
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\obj\Debug\TextRedactor.csproj.CoreCompileInputs.cache
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\obj\Debug\TextRedactor.exe
+C:\Users\Dmitryi\Source\Repos\labaform4\TextRedactor\obj\Debug\TextRedactor.pdb
